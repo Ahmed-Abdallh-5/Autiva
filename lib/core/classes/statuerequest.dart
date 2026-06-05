@@ -1,0 +1,21 @@
+enum StatueRequest {
+  deletedsuccess,
+
+  loading,
+  loadingSearch,
+  Success,
+  logicfaliure,
+  ServerFaliure,
+  authproblem,
+  offline,
+  Validationerror,
+  Authorizationerror,
+  loadinghome,
+  loadingindicator,
+  loadingprofile,
+  notverficated,
+  Unauthorizederror,
+  notfounduser,
+  unauthenticated,
+  joinedbefore,
+}
